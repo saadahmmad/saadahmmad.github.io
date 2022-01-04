@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Saad Ahmad"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Graduate RA at The University of Texas at Austin."
+  location         : "Austin, TX, USA"
   email            :
   links:
     - label: "Email"
