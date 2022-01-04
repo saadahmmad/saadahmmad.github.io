@@ -4,6 +4,8 @@ main:
     url:
   - title: "LinkedIn"
     url: https://www.linkedin.com/in/saadahmad-/
+  - title: "About me"
+    url: 
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
